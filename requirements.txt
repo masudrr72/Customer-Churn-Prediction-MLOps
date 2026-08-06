@@ -1,0 +1,27 @@
+ipykernel
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+xgboost
+catboost
+from_root
+dill
+certifi
+PyYAML
+boto3
+mypy-boto3-s3
+botocore
+fastapi
+python-multipart
+uvicorn
+jinja2
+imblearn
+
+dotenv 
+azure-storage-blob
+
+
+-e .
